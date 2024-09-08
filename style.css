@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+p{
+  color: #09120f;
+}
+
 body {
   font-family: "Poppins", sans-serif;
 }
